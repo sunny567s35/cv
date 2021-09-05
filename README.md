@@ -1,3 +1,3 @@
 # cv
-My first Website created with only HTML.
+My first Website created with raw HTML.
 
